@@ -1,3 +1,7 @@
+/*
+국립 안동대학교 컴퓨터공학과 20181113 박준영
+ */
+
 package subject1;
 
 import java.util.Scanner;
