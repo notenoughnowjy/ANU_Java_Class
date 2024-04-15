@@ -15,7 +15,7 @@ class Rectangle{
 public class Test {
     public static void main(String[] args) {
         Rectangle myRect;
-        myRect = new Rectangle(); // 객체 생성을 해줘야 한다.
+        myRect = new Rectangle(); // 객체를 new를 통해서 생성해준다.
         myRect.width = 10;
         myRect.height = 20;
         System.out.println("면적은 " + myRect.area());

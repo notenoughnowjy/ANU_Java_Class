@@ -16,6 +16,7 @@ class Student{
         this.age = age;
     }
 
+//    학생 출력
     public void printout(){
         System.out.println("학생의 이름: " + name);
         System.out.println("학생의 학번: " + StudentID);
@@ -25,6 +26,7 @@ class Student{
 
 public class StudentTest {
     public static void main(String[] args) {
+//        학생 값 입력
         Student student1 = new Student("Kim", 20180001, 20);
         student1.printout();
     }
