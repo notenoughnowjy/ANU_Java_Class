@@ -22,6 +22,6 @@ public class CalculationOutput {
         Calculation obj = new Calculation();
         System.out.println("obj1: " + obj.sum(10, 20));
         System.out.println("obj2: " + obj.sum(10, 20, 30));
-    }결
+    }
 
 }
