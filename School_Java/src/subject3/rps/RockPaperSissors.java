@@ -1,6 +1,5 @@
 package subject3.rps;
 // 국립안동대학교 20181113 박준영
-// 가위바위보 클래스
 import java.util.Scanner;
 
 public class RockPaperSissors {
